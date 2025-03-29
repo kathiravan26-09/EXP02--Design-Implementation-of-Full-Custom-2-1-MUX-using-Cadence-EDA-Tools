@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-03-28 at 20 19 50_df706bea](https://github.com/user-attachments/assets/606a0fc2-26d9-417c-8a85-8908ab89b2a0)# Ex No: 02 - Design & Implementation of Full Custom 2:1 MUX using Cadence EDA Tools
+# Ex No: 02 - Design & Implementation of Full Custom 2:1 MUX using Cadence EDA Tools
 
 ## Aim
 
